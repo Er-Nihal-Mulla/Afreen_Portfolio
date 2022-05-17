@@ -1,0 +1,13 @@
+.download_resume {
+    box-sizing: border-box;
+    padding: 10px 20px;
+    background: transparent;
+    color: rgb(22, 199, 154);
+    display: inline-block;
+    border-radius: 20px;
+    box-shadow: none;
+    border: 1px solid rgb(22, 199, 154);
+    font-size: 12px;
+    letter-spacing: 1px;
+    user-select: auto;
+}
